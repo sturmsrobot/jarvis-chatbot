@@ -22,7 +22,7 @@ Ein einfacher virtueller Assistent, der mit HTML, CSS und JavaScript erstellt wu
 
 1. Klone das Repository:
     ```sh
-    git clone https://github.com/dein-benutzername/jarvis-chatbot.git
+    git clone https://github.com/sturmsrobot/jarvis-chatbot.git
     cd jarvis-chatbot
     ```
 
